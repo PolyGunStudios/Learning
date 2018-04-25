@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\EscapeTheBuilding.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{5D63CC0A-88D4-4079-92F8-A15AAEC8D67A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\EscapeTheBuilding.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\EscapeTheBuildingEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C402DDDD-F61A-47BD-89D3-DB395C95E041}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\EscapeTheBuilding">
+			<UniqueIdentifier>{573A0784-E382-48CA-A5AD-9EB3671B893E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\EscapeTheBuilding\EscapeTheBuilding.Build.cs">
+			<Filter>Source\EscapeTheBuilding</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\EscapeTheBuilding\EscapeTheBuilding.cpp">
+			<Filter>Source\EscapeTheBuilding</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\EscapeTheBuilding\EscapeTheBuilding.h">
+			<Filter>Source\EscapeTheBuilding</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\EscapeTheBuilding\EscapeTheBuildingGameModeBase.cpp">
+			<Filter>Source\EscapeTheBuilding</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\EscapeTheBuilding\EscapeTheBuildingGameModeBase.h">
+			<Filter>Source\EscapeTheBuilding</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EscapeTheBuilding.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal C++ Projects\Learning\EscapeTheBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeTheBuilding\EscapeTheBuilding.cpp.obj"
+"D:\Unreal C++ Projects\Learning\EscapeTheBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeTheBuilding\EscapeTheBuildingGameModeBase.cpp.obj"
+"D:\Unreal C++ Projects\Learning\EscapeTheBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeTheBuilding\EscapeTheBuilding.init.gen.cpp.obj"
+"D:\Unreal C++ Projects\Learning\EscapeTheBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeTheBuilding\EscapeTheBuildingGameModeBase.gen.cpp.obj"
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\EscapeTheBuilding\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Unreal C++ Projects\Learning\EscapeTheBuilding\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-EscapeTheBuilding.lib"
